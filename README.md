@@ -14,8 +14,8 @@
 ![效果图](https://github.com/User-Time/requests_qq_essence/blob/main/image/actual%20effect.png "效果图")
 
 ## Usage:
-抓到 cookie 然后将其放入到第40行 cookie 中即可。
-
+将抓到的 cookie 放入到第40行 cookie 中即可。
+> 打开 历史精华 时抓包
 
 <br>如图所示，在配置好的情况下 使用以下方式即可获得精华消息
 ```bash
@@ -31,6 +31,6 @@ python essence.py [条数]
 const execSync = require('child_process').execSync;
 out = execSync('python3 ./essence.py '+1)).toString()
 ```
-* connect
- Discord： Time#4381
- QQ: 583416178
+## connect
+Discord：Time#4381
+<br>QQ: 583416178
