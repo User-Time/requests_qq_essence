@@ -14,7 +14,8 @@
 ![效果图](https://github.com/User-Time/requests_qq_essence/blob/main/image/actual%20effect.png "效果图")
 
 ## Usage:
-将抓到的 cookie 放入到第40行 cookie 中即可。
+1、将群号放入第30行<br>
+2、将抓到的 cookie 放入到第40行 cookie 中即可。
 > 打开 历史精华 时抓包
 
 <br>如图所示，在配置好的情况下 使用以下方式即可获得精华消息
